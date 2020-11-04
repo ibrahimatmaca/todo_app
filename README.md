@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## ScreenShot
-![ScreenShot](screenshot/ss.png,screenshot/ss1.png)
+![ScreenShot]()
 <img src="screenshot/ss.png" width="144" height="288">
 <img src="screenshot/ss2.png" width="144" height="288">
 <img src="screenshot/ss3.png" width="144" height="288">

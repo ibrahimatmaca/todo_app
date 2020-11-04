@@ -10,9 +10,11 @@ The application is prepared to make daily plans.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-<br>
-  -[Http flutter package](https://pub.dev/packages/http)<br>
-  -[Firebase](https://console.firebase.google.com/)
+To use your own google account in the application, first create an realtime database in firebase, then change the address of _baseUrl in lib / core / service / firebase_api_service.dart file.
+
+Packages and others used in the application:
+
+- [Http flutter package](https://pub.dev/packages/http)
+- [Firebase](https://console.firebase.google.com/)
 
 

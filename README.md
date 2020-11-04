@@ -4,9 +4,7 @@ The application is prepared to make daily plans.
 
 ## ScreenShot
 
-<img src="screenshot/ss.png" width="15%"></img> <img src="screenshot/ss2.png" width="15%"></img> <img src="screenshot/ss3.png" width="15%"></img> <img src="screenshot/ss4.png" width="15%"></img> 
-
-<br>
+<img src="screenshot/ss.png" width="15%"></img> <img src="screenshot/ss2.png" width="15%"></img> <img src="screenshot/ss3.png" width="15%"></img> <img src="screenshot/ss4.png" width="15%"></img> <img src="screenshot/ss5.png" width="15%"></img> 
 
 ## About App
 

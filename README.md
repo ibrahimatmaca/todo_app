@@ -3,15 +3,19 @@
 The application is prepared to make daily plans.
 
 ## ScreenShot
+
+
 <img align = "left" alt="ibrahimatmaca" width="164" height="308" src="screenshot/ss.png"/>
 <img align = "left" alt="ibrahimatmaca" width="164" height="308" src="screenshot/ss2.png"/>
 <img align = "left" alt="ibrahimatmaca" width="164" height="308" src="screenshot/ss3.png"/>
 <img align = "left" alt="ibrahimatmaca" width="164" height="308" src="screenshot/ss4.png"/>
 <img align = "left" alt="ibrahimatmaca" width="164" height="308" src="screenshot/ss5.png"/>
 
-![]
 <br>
-
+<br>
+<br>
+br
+br
 
 ## About App
 

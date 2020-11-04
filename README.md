@@ -3,11 +3,11 @@
 A new Flutter project.
 
 ## ScreenShot
-![" "](<img src="screenshot/ss.png" width="144" height="288">)
-<img src="screenshot/ss2.png" width="144" height="288">
-<img src="screenshot/ss3.png" width="144" height="288">
-<img src="screenshot/ss4.png" width="144" height="288">
-<img src="screenshot/ss5.png" width="144" height="288">
+[<img align = "left" alt="ibrahimatmaca" width="144" height="288" src="screenshot/ss.png"/>]
+[<img align = "left" alt="ibrahimatmaca" width="144" height="288" src="screenshot/ss2.png"/>]
+[<img align = "left" alt="ibrahimatmaca" width="144" height="288" src="screenshot/ss3.png"/>]
+[<img align = "left" alt="ibrahimatmaca" width="144" height="288" src="screenshot/ss4.png"/>]
+[<img align = "left" alt="ibrahimatmaca" width="144" height="288" src="screenshot/ss5.png"/>]
 
 This project is a starting point for a Flutter application.
 
@@ -19,3 +19,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+[ss1]:screenshot/ss2.png

@@ -178,9 +178,7 @@ class _HomeViewState extends State<HomeView> {
       ),
       onDismissed: (dismissDirection) async {
         await service.deleteTask(deleteKey);
-        setState(() {
-          
-        });
+        setState(() {});
       },
     );
   }

@@ -2,7 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShot
+
+<img src="screenshot/ss.png" width="144" height="288">
+<img src="screenshot/ss2.png" width="144" height="288">
+<img src="screenshot/ss3.png" width="144" height="288">
+<img src="screenshot/ss4.png" width="144" height="288">
+<img src="screenshot/ss5.png" width="144" height="288">
 
 This project is a starting point for a Flutter application.
 

@@ -113,7 +113,7 @@ class _HomeViewState extends State<HomeView> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           SizedBox(
-            width: MediaQuery.of(context).size.width / 10,
+            width: MediaQuery.of(context).size.width / 30,
           ),
           Text(
             dateTime != null
@@ -178,6 +178,9 @@ class _HomeViewState extends State<HomeView> {
       ),
       onDismissed: (dismissDirection) async {
         await service.deleteTask(deleteKey);
+        setState(() {
+          
+        });
       },
     );
   }

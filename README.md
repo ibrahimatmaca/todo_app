@@ -4,12 +4,11 @@ A new Flutter project.
 
 ## ScreenShot
 
-!(https://raw.github.com/{ss1}/{ss2}/{ss3}/{ss4}/{ss5})
-![ss1]<img src="screenshot/ss.png" width="144" height="288">
-![ss2]<img src="screenshot/ss2.png" width="144" height="288">
-![ss3]<img src="screenshot/ss3.png" width="144" height="288">
-![ss4]<img src="screenshot/ss4.png" width="144" height="288">
-![ss5]<img src="screenshot/ss5.png" width="144" height="288">
+<img src="screenshot/ss.png" width="100" height="100">
+<img src="screenshot/ss2.png" width="100" height="100">
+<img src="screenshot/ss3.png" width="100" height="100">
+<img src="screenshot/ss4.png" width="100" height="100">
+<img src="screenshot/ss5.png" width="100" height="100">
 
 This project is a starting point for a Flutter application.
 

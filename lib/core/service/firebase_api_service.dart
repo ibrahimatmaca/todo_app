@@ -10,7 +10,7 @@ class ApiService {
   static ApiService _instance = ApiService._init();
 
   ApiService._init() {
-    _baseUrl = "https://flutter-6e8e7.firebaseio.com";
+    _baseUrl = "URL_Firebase ";//example: https://flutter-5f9e5.firebaseio.com
   }
 
   static ApiService getInstance() {
